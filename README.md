@@ -22,7 +22,7 @@ Getting Started
 
 ---
 
-🧪 Running Tests
+Running Tests
 
 To run all tests:
 
@@ -33,7 +33,7 @@ To run all tests:
 
 ---
 
-📊 Viewing Allure Report
+Viewing Allure Report
 
 To view the test report:
 
