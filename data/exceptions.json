@@ -1,0 +1,14 @@
+{
+    "FOOD_ITEMS": [
+        "apple",
+        "banana",
+        "carrot",
+        "donut",
+        "eggplant"
+    ],
+    "VALIDATION_MESSAGES": {
+        "FOOD_ITEM_SAVE": "Row 1 was saved",
+        "FOOD_ITEM_ADDED":"Row 2 was added",
+        "FOOD_ITEM_REMOVE":"Row 2 was removed"
+    }
+}
